@@ -1,1 +1,1 @@
-# vgerbot-microservices-practice
+# microservices-architecture-practices
