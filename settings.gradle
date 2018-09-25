@@ -1,0 +1,3 @@
+rootProject.name = 'msap'
+include "msap-pubref"
+include "msap-zk"
